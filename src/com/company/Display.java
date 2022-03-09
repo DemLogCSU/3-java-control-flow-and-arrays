@@ -5,5 +5,6 @@ public class Display {
         for (char[] element : data) {
             System.out.println(element);
         }
+        System.out.println();
     }
 }
